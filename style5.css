@@ -1,9 +1,26 @@
-h6 {
-    text-align: center;
-    font-size: 400%;
-    background-color: azure;
+body{
+ background-color: black;
 }
 
-.p6{
+h4{
+  font-size: 390%;
+    text-align: center;
+    border-color: red;
+    border-style: dashed;
+    border-width: 5px;
+    background-color: yellow;
+}
+
+h5{
     font-size: 250%;
+    color:white;
+}
+
+h6 {
+ font-size: 200%;
+ text-align: center;
+ color: red;
+}
+.p4 {
+    text-align: center;
 }
