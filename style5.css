@@ -1,6 +1,9 @@
 body{
  background-color: black;
+  background-image: linear-gradient( black 40%,   rgb(65, 64, 63) 60%);
+    height: 100vh;
 }
+
 
 h4{
   font-size: 390%;

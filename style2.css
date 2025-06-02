@@ -1,5 +1,7 @@
 body {
     background-color: black;
+    background-image: linear-gradient( black 40%,   rgb(65, 64, 63) 60%);
+    height: 100vh;
 }
 
 
@@ -17,6 +19,8 @@ h2 {
  }
 
 .p1{
+   
     font-size:300%;
-    color: aliceblue;
+    color: antiquewhite;
+    
 }
